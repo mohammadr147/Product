@@ -1,0 +1,8 @@
+@model Product
+<form   class="container-fluid" asp-action="CreateProduct" method="post">
+    <input type="text" class="d-block" asp-for="Name">
+    <select  class="d-block my-2" asp-for="CategoryId" asp-items="ViewBag.list">
+        <option value="">-------انتهاب کنید-------</option>
+    </select>
+   <button type="submit" class="btn btn-dark">submit!</button> 
+</form>
