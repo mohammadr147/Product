@@ -9,49 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = product
 build_property.RootNamespace = product
-build_property.ProjectDir = D:\testPeroject\product\
+build_property.ProjectDir = E:\Programming\testPeroject\product\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\testPeroject\product
+build_property.MSBuildProjectDirectory = E:\Programming\testPeroject\product
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/testPeroject/product/Views/Home/Category.cshtml]
+[E:/Programming/testPeroject/product/Views/Home/Category.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXRlZ29yeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/testPeroject/product/Views/Home/Index.cshtml]
+[E:/Programming/testPeroject/product/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/testPeroject/product/Views/Home/Privacy.cshtml]
+[E:/Programming/testPeroject/product/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/testPeroject/product/Views/ProductCategory/CreateProduct.cshtml]
+[E:/Programming/testPeroject/product/Views/ProductCategory/CreateProduct.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdENhdGVnb3J5XENyZWF0ZVByb2R1Y3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/testPeroject/product/Views/ProductCategory/Products.cshtml]
+[E:/Programming/testPeroject/product/Views/ProductCategory/Products.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdENhdGVnb3J5XFByb2R1Y3RzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/testPeroject/product/Views/Shared/Error.cshtml]
+[E:/Programming/testPeroject/product/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/testPeroject/product/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/Programming/testPeroject/product/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/testPeroject/product/Views/_ViewImports.cshtml]
+[E:/Programming/testPeroject/product/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/testPeroject/product/Views/_ViewStart.cshtml]
+[E:/Programming/testPeroject/product/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/testPeroject/product/Views/Shared/_Layout.cshtml]
+[E:/Programming/testPeroject/product/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-75w1xv8qxh

@@ -3393,11 +3393,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\testPeroject\\product\\product.csproj",
+      "projectUniqueName": "E:\\Programming\\testPeroject\\product\\product.csproj",
       "projectName": "product",
-      "projectPath": "D:\\testPeroject\\product\\product.csproj",
+      "projectPath": "E:\\Programming\\testPeroject\\product\\product.csproj",
       "packagesPath": "C:\\Users\\mhf_7\\.nuget\\packages\\",
-      "outputPath": "D:\\testPeroject\\product\\obj\\",
+      "outputPath": "E:\\Programming\\testPeroject\\product\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mhf_7\\AppData\\Roaming\\NuGet\\NuGet.Config",
